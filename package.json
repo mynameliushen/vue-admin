@@ -1,0 +1,37 @@
+{
+  "name": "vue-admin",
+  "version": "1.0.0",
+  "description": "基于vue+element-ui实现的一个后台管理系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mynameliushen/vue-admin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mynameliushen/vue-admin/issues"
+  },
+  "homepage": "https://github.com/mynameliushen/vue-admin#readme",
+  "devDependencies": {
+    "css-loader": "^3.5.3",
+    "html-webpack-plugin": "^4.3.0",
+    "style-loader": "^1.2.1",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "vue": "^2.6.11",
+    "vue-loader": "^15.9.2",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.43.0",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "element": "^0.1.4",
+    "vue-router": "^3.2.0"
+  }
+}
