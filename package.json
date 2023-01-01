@@ -19,15 +19,15 @@
   },
   "homepage": "https://github.com/mynameliushen/vue-admin#readme",
   "devDependencies": {
-    "css-loader": "^3.5.3",
-    "html-webpack-plugin": "^4.3.0",
+    "css-loader": "^6.7.3",
+    "html-webpack-plugin": "^5.5.0",
     "style-loader": "^1.2.1",
     "stylus": "^0.54.7",
-    "stylus-loader": "^3.0.2",
+    "stylus-loader": "^7.1.0",
     "vue": "^2.6.11",
-    "vue-loader": "^15.9.2",
+    "vue-loader": "^17.0.1",
     "vue-template-compiler": "^2.6.11",
-    "webpack": "^4.43.0",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
